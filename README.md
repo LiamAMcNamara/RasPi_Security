@@ -5,3 +5,4 @@ Files:
 - Requirements.pdf: Documentation of the hardware necessary to complete this project
 - Instructions.pdf: Step by step instructions to implement the camera on Raspberry Pi
 - Souces.pdf: Links to references
+- Project Report.pdf: Project Report
